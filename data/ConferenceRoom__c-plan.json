@@ -1,0 +1,10 @@
+[
+    {
+        "sobject": "ConferenceRoom__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "ConferenceRoom__cs.json"
+        ]
+    }
+]

@@ -1,0 +1,15 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "ConferenceRoom__c",
+                "referenceId": "ConferenceRoom__cRef1"
+            },
+            "Name": "Wuhan32F/N1",
+            "RoomNo__c": "N1",
+            "Floor__c": "32F",
+            "Facility__c": "Zoom视频;白板;空调",
+            "Capacity__c": 4
+        }
+    ]
+}

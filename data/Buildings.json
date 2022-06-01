@@ -1,0 +1,14 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Building__c",
+                "referenceId": "Building__cRef1"
+            },
+            "Name": "保利国际中心",
+            "Country__c": "China",
+            "City__c": "Wuhan",
+            "Location__c": "武汉市东湖新技术开发区关山大道332号保利·时代K18地块A栋保利国际中心20层2001号"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Lead",
+                "referenceId": "LeadRef1"
+            },
+            "Name": "张三",
+            "Email": "zhangsan@interviewee.com",
+            "WorkingCity__c": "Wuhan"
+        },
+        {
+            "attributes": {
+                "type": "Lead",
+                "referenceId": "LeadRef2"
+            },
+            "Name": "李四",
+            "Email": "lisi@interviewee.com",
+            "WorkingCity__c": "Wuhan"
+        },
+        {
+            "attributes": {
+                "type": "Lead",
+                "referenceId": "LeadRef3"
+            },
+            "Name": "王五",
+            "Email": "wangwu@interviewee.com",
+            "WorkingCity__c": "Xi'an"
+        },
+        {
+            "attributes": {
+                "type": "Lead",
+                "referenceId": "LeadRef4"
+            },
+            "Name": "赵六",
+            "Email": "zhaoliu@interviewee.com",
+            "WorkingCity__c": "Wuhan"
+        }
+    ]
+}

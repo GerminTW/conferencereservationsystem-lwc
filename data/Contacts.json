@@ -1,0 +1,54 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef1"
+            },
+            "Name": "Nic He",
+            "Title": "Senior Consultant",
+            "Email": "nic@thoughtworks.com",
+            "WorkingCity__c": "Wuhan"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef2"
+            },
+            "Name": "Harry Zhang",
+            "Title": "Solution Architect",
+            "Email": "harry@thoughtworks.com",
+            "WorkingCity__c": "Wuhan"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef3"
+            },
+            "Name": "Wilson Xu",
+            "Title": "Senior Consultant",
+            "Email": "wilson@thoughtworks.com",
+            "WorkingCity__c": "Wuhan"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef4"
+            },
+            "Name": "Lily",
+            "Title": "UI Developer",
+            "Email": "lily@thoughtworks.com",
+            "WorkingCity__c": "Xi'an"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef5"
+            },
+            "Name": "Jack",
+            "Title": "Java Developer",
+            "Email": "jack@thoughtworks.com",
+            "WorkingCity__c": "Xi'an"
+        }
+    ]
+}
