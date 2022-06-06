@@ -1,0 +1,18 @@
+[
+    {
+        "sobject": "Building__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "Buildings.json"
+        ]
+    },
+    {
+        "sobject": "ConferenceRoom__c",
+        "saveRefs": false,
+        "resolveRefs": true,
+        "files": [
+            "ConferenceRooms.json"
+        ]
+    }
+]

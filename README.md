@@ -10,11 +10,8 @@ Now that you’ve created a Salesforce DX project, what’s next? Here are some 
   // Import Leads
   sfdx force:data:tree:import -f data/Leads.json -u targetusername
 
-  // Import Buildings
-  sfdx force:data:tree:import -f data/Buildings.json -u targetusername
-
-  // Import Conference Rooms
-  sfdx force:data:tree:import -f data/ConferenceRooms.json -u targetusername
+  // Import Buildings & Conference Rooms
+  sfdx force:data:tree:import -u targetusername --plan data/Building__c-ConferenceRoom__c-plan.json
 ```
 
 ## How Do You Plan to Deploy Your Changes?
